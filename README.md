@@ -1,7 +1,4 @@
-# floodmap_segmentation
-Flood-mapping Segmentation using DeepLabV3+ &amp; Tensorflow
-
-# 🌊 Flood Area Segmentation using DeepLabV3
+# Flood Area Segmentation using DeepLabV3
 
 This project performs **semantic segmentation for flood detection** using the **DeepLabV3 architecture** implemented in **TensorFlow 2.10**.  
 It includes dataset preparation, model training, evaluation, and visualization of predicted masks.
